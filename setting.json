@@ -1,0 +1,8 @@
+{
+    "dir_window": "命令提示符",
+    "diff_threshold": 200,
+    "pic_path": "pic\\",
+    "pic_prefix": "rt_check_",
+    "notification": false,
+    "email": "ccfnoip@163.com"
+}
