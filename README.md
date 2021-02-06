@@ -2,7 +2,7 @@
 
 ## 介绍
 
-RT_Check是一个根据窗口截屏来实现实时检查的py脚本。
+RT_Check（Real-time Check）是一个根据窗口截屏来实现实时检查的py脚本。
 
 图片的比较阈值可在setting.json中设置"diff_threshold"。（当前版本尚未使用图片阈值）
 
